@@ -1,0 +1,34 @@
+# Data files (too large for GitHub, and contain patient-reported data)
+data/*.tsv
+data/*.csv
+data/*.parquet
+
+# Model checkpoints (large binary files)
+outputs/distilbert_baseline/
+outputs/*.pt
+outputs/*.bin
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MLflow
+mlruns/
