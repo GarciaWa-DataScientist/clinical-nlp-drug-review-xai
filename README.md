@@ -1,4 +1,4 @@
-# Clinical NLP — Drug Review Sentiment Classification with Explainability & Uncertainty Quantification
+## Clinical NLP — Drug Review Sentiment Classification with Explainability & Uncertainty Quantification
 
 > **A production-oriented NLP pipeline applying transformer-based classification,  
 > SHAP explainability, and uncertainty quantification to patient-reported drug review data.**
